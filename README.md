@@ -2,7 +2,7 @@
 
 I'm Andrej and At heart ❤️ I'm really a techie.  
 ---
-[![codewars](https://www.codewars.com/users/andron13/badges/large "codewars")](https://www.codewars.com/users/andron13)
+[![codewars](https://www.codewars.com/users/Tony/badges/large "codewars")](https://www.codewars.com/users/Tony)
 ---
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
